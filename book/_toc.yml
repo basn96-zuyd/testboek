@@ -16,6 +16,7 @@ parts:
     chapters:
     - file: exercises.md
       sections:
+      - file: exercises/BN.md
       - file: exercises/001.md
       - file: exercises/002.md
       - file: exercises/003.md
