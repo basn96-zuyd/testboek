@@ -1,8 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# Testboek Zuyd
 
-_This is the first page the student will see when opening the url._
+_Dit is een begin._
 
-Test Test Test
-
-Hoe komt dit uit te zien??????????
+Blablabla
